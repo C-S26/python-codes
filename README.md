@@ -25,6 +25,7 @@ A collection of small Python scripts focused on cybersecurity, networking, and s
 - Hash cracking (SHA1 wordlist)
 - Disposable email detection
 - HaveIBeenPwned password check
+- Custom Lab codes (hosted with ubuntu server & cloudflared tool)
 
 ## Requirements
 
